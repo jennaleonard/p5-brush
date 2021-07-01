@@ -10,7 +10,7 @@ This code can be run directing using HTML.
 
 ## Try It Yourself
 
-You can view the live brush [here].(https://jennaleonard.github.io/p5-brush/)
+You can view the live brush [here.](https://jennaleonard.github.io/p5-brush/)
 
 ## Tools Used
 
