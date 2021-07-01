@@ -1,37 +1,17 @@
-# p5-template
+# p5-brush
 
-Use this template for a brand new p5.js project. 
+This brush was created in order to familiarize myself with the p5.js library. I combined angle rotation, opacity, and a gradient in order to give it a dynamic, neon feel. Check it out!
 
+![Screen Shot 2021-07-01 at 10 56 32 AM](https://user-images.githubusercontent.com/71030121/124169509-2b674780-da5b-11eb-8836-e7a24ec457b7.png)
 
-# Assignment 1: Make a brush
+## To Run
 
-1.  Find an object, texture, or motion that you want to recreate using p5.js Here is [some inspiration](https://lmccart.github.io/p5-workshop/). 
-2.  Generate some sort of "mark" every time your mouse location changes (aka make a “brush” you can "draw" with using the mouse). 
-3.  Include one element that changes as you move the mouse that is *not* just the location of the mark. This could be scale, color, angle, or more. 
-4.  (Optional) Include one element that is different each time you load the sketch (you may want to use randomness!)
+This code can be run directing using HTML. 
 
+## Try It Yourself
 
-## Some helpful questions to think through
+You can view the live brush [here.](https://jennaleonard.github.io/p5-brush/)
 
-#### Q: What ideas do I want to convey with my brush? 
+## Tools Used
 
-You may want to choose an emotion: surprise, playfulness, confusion, etc. 
-
-#### Q: How can I create layers in p5?
-
-Layers can help create a sense of complexity! To do so, comment out the `background()` function in your `draw()` function. This will prevent the screen from being covered by the background color each frame. 
-
-#### Q: How can I create a gradient of colors? 
-
-You might to check out https://p5js.org/reference/#/p5/lerpColor. Also useful: https://p5js.org/reference/#/p5/map
-
-#### Q: Is my brush a tool for the user to create art, or is the brush a work of art in itself? 
- 
-🤯
-
-#### Q: Are there any resources I can turn to? 
-
-Check out Dan Schiffman's youtube tutorials [http://learningprocessing.com/videos/3-2# ](here)!
-
-
-This is adapted from [Camille Utterback's class "Drawing with Code"](http://camilleutterback.com/).
+p5.js, Jenna's brain 🧠 
